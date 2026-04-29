@@ -1,5 +1,5 @@
 "use client";
 
 export const Nav = () => {
-  return <h1>this is nav bar</h1>;
+  return <h1>This is nav bar</h1>;
 };
